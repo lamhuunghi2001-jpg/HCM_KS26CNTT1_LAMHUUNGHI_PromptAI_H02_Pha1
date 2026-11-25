@@ -13,15 +13,14 @@
 **GHI CHU DA AN DANH**
 
 ```text
-[TEN_KHACH]: Nguyễn Minh Quân 
-[SDT]: 0987654321
-[SO_CCCD]: 079201009876
-[EMAIL]: quan.nguyen@example.com
+[TEN_KHACH]: họ và tên
+[SDT]: ********* sdt
+[SO_CCCD]: ************ cccd
+[EMAIL]: ********@example.com
 [DON_HANG]: 3 vé gói SVT trận bán kết Cúp Sao Vàng (2 người lớn và 1 trẻ em 9 tuổi)
-[THOI_GIAN]: 18/12/2026
+[THOI_GIAN]: YYYY-MM-DD
 [THANH_TOAN]: Đã đặt cọc 1.500.000 đồng
 [YEU_CAU]: 3 ghế ngồi cạnh nhau gần lối đi
-
 
 ```
 
